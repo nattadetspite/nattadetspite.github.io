@@ -36,3 +36,6 @@ pnpm-debug.log*
 
 # Seeded design canvas (2.8MB, republish from design/*.dc.html)
 design/nattadet-landing-page.html
+
+# Original full-size thumbnail sources (converted into assets/thumbs)
+source-assets/

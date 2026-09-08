@@ -4,8 +4,8 @@
     { "id": "page-2", "name": "Earlier directions" }
   ],
   "artboards": [
-    { "file": "Main.dc.html",      "page": "page-1", "x": 0,    "y": 0, "w": 1440, "h": 1560, "title": "Landing page — desktop" },
-    { "file": "Mobile.dc.html",    "page": "page-1", "x": 1560, "y": 0, "w": 390,  "h": 1650, "title": "Landing page — mobile" },
+    { "file": "Main.dc.html",      "page": "page-1", "x": 0,    "y": 0, "w": 1440, "h": 1920, "title": "Landing page — desktop" },
+    { "file": "Mobile.dc.html",    "page": "page-1", "x": 1560, "y": 0, "w": 390,  "h": 2000, "title": "Landing page — mobile" },
     { "file": "Editorial.dc.html", "page": "page-2", "x": 0,    "y": 0, "w": 1440, "h": 3140, "title": "A · Editorial (not chosen)" },
     { "file": "Immersive.dc.html", "page": "page-2", "x": 1560, "y": 0, "w": 1440, "h": 1440, "title": "C · Immersive (not chosen)" }
   ],

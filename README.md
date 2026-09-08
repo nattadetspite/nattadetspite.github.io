@@ -9,15 +9,17 @@ No build step, no dependencies — plain HTML, CSS and JavaScript.
 index.html          Markup and copy — projects are plain <li> rows, edit here
 css/styles.css      Tokens, aurora background, layout
 js/main.js          Hover-to-play video previews (desktop only)
-assets/video/       Project clips, 10 files, ~10.5 MB
-assets/thumbs/      Poster frames cut from those clips, ~320 KB
+assets/video/       Project clips for the first ten rows, ~10.5 MB
+assets/thumbs/      Stills for every row — posters for the video rows,
+                    plain thumbnails for the rest, ~520 KB
 .nojekyll           Stops GitHub Pages running content through Jekyll
 ```
 
 ## Editing
 
-- **Add or reorder a project** — copy an `<li>` block in `index.html`. Each row
-  needs a video, a matching poster, a number, a title and a collaborator line.
+- **Add or reorder a project** — copy an `<li>` block in `index.html`. A row's
+  media is either a `<video>` with a matching poster (hover-to-play) or a plain
+  `<img>` when there is no clip. Both are styled identically.
   Keep `row--last` on the final row; it draws the closing rule.
 - **Bio, history, certification** — the `.intro` section of `index.html`.
 - **Colours and spacing** — the `:root` block at the top of `css/styles.css`.
