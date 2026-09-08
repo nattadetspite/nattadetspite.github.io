@@ -1,9 +1,9 @@
 {
   "artboards": [
-    { "file": "Main.dc.html",      "x": 0,    "y": 0,    "w": 1440, "h": 2960, "title": "A · Editorial — full page" },
-    { "file": "Mobile.dc.html",    "x": 1560, "y": 0,    "w": 390,  "h": 1960, "title": "A · Editorial — mobile" },
-    { "file": "Index.dc.html",     "x": 0,    "y": 3120, "w": 1440, "h": 1240, "title": "B · Index" },
-    { "file": "Immersive.dc.html", "x": 1560, "y": 3120, "w": 1440, "h": 1240, "title": "C · Immersive" }
+    { "file": "Main.dc.html",      "x": 0,    "y": 0,    "w": 1440, "h": 3140, "title": "A · Editorial — full page" },
+    { "file": "Mobile.dc.html",    "x": 1560, "y": 0,    "w": 390,  "h": 2280, "title": "A · Editorial — mobile" },
+    { "file": "Index.dc.html",     "x": 0,    "y": 3300, "w": 1440, "h": 1300, "title": "B · Index" },
+    { "file": "Immersive.dc.html", "x": 1560, "y": 3300, "w": 1440, "h": 1440, "title": "C · Immersive" }
   ],
   "annotations": [
     {
@@ -16,7 +16,7 @@
     {
       "id": "alternates",
       "x": 0,
-      "y": 2990,
+      "y": 3170,
       "w": 620,
       "text": "Two alternates, same palette, different stance:\nB · Index — JetBrains Mono, all 11 projects as a scannable table. Engineer-forward, least decoration.\nC · Immersive — Syne display, work as an overlapping mosaic. Most memorable, least scannable."
     },
