@@ -33,3 +33,6 @@ pnpm-debug.log*
 .cache/
 .parcel-cache/
 *.tsbuildinfo
+
+# Seeded design canvas (2.8MB, republish from design/*.dc.html)
+design/nattadet-landing-page.html
