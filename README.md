@@ -9,8 +9,8 @@ No build step, no dependencies — plain HTML, CSS and JavaScript.
 index.html          Markup and copy — projects are plain <li> rows, edit here
 css/styles.css      Tokens, aurora background, layout
 js/main.js          Hover-to-play video previews (desktop only)
-assets/video/       Project clips, 11 files, ~11 MB
-assets/thumbs/      Poster frames cut from those clips, ~350 KB
+assets/video/       Project clips, 10 files, ~10.5 MB
+assets/thumbs/      Poster frames cut from those clips, ~320 KB
 .nojekyll           Stops GitHub Pages running content through Jekyll
 ```
 
